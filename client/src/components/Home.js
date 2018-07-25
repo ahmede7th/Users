@@ -109,6 +109,7 @@ class Home extends Component {
             ? this.userFunc()
             : ''
         }
+        
       </div>
     </div>)
   }
